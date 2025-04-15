@@ -14,6 +14,7 @@
 ## 🔮 パスワーキング
 
 1. **はじまりの祈り**
+### ✨祈りの言葉（Invocation）
 > **Hekate, Goddess of the Crossroads,**  
 > **In this moment that bridges past, present, and future,**  
 > **Bring healing and integration to my soul.**  
@@ -32,8 +33,11 @@
 4. **癒しの光**
    - ヘカテの月からアゾートの光が差し込みます。
    - あなたのペンタクルを通じて、その癒しの光が小さな存在たちに降り注がれます。
-   - 「すべては終わった。癒され、解放され、帰ることができる」と心の中で語りかけます。
+### 🕊️ Final Blessing（最後の癒しの言葉）
+> “It is done. You are healed, you are free, and you may return.”
+> （すべては終わった。癒され、解放され、帰ることができる）
 
+心の中でこの言葉を静かに唱えながら、過去の自己たちがヘカテの光を受けてそれぞれの時空に戻っていく様子を見届けます。
 5. **帰還と統合**
    - 小さな者たちは安らぎ、ひとりずつ光となって霧のように溶け、自分自身へと戻っていきます。
    - 最後に、ペンタクルを胸に抱えながら、深呼吸とともに意識を現在に戻します。
