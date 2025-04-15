@@ -14,7 +14,11 @@
 ## 🔮 パスワーキング
 
 1. **はじまりの祈り**
-   - 「十字路の女神ヘカテよ。過去と現在と未来をつなぐこの時の中で、私の魂に癒しと統合をもたらしてください。」
+> **Hekate, Goddess of the Crossroads,**  
+> **In this moment that bridges past, present, and future,**  
+> **Bring healing and integration to my soul.**  
+>  
+> （十字路の女神ヘカテよ。過去と現在と未来をつなぐこの時の中で、私の魂に癒しと統合をもたらしてください。）
 
 2. **自己投影**
    - 自分が「Queen of Pentacles」となっていることを想像します。
