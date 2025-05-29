@@ -56,6 +56,14 @@
 - カードのイメージは儀式の補助として使用しますが、最終的には視覚化のみでも可能です。
 
 ---
+## 🐌 こちらもご覧ください
+
+このページは、作成済み、制作途中、制作予定のものに簡単にアクセスできるメインメニューです。
+大量の情報が見やすく表示されています。
+
+[📚 Le Sorcier Inconnuの書架──翻訳と注釈の目録](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md)
+
+---
 
 ## 📋 License
 
